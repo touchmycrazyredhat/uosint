@@ -9,7 +9,7 @@
   <a href="https://twitter.com/K0WSHIK">
     <img src="http://img.shields.io/badge/Twitter-%F0%9F%90%A6-url?color=blue&style=for-the-badge" alt="build status" />
   </a>
-  <a href="https://github.com/uosint-project/uosint/blob/master/LICENSE">
+  <a href="https://github.com/trhacknon/uosint/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=for-the-badge" alt="build status" />
   </a>
 </div>
@@ -40,7 +40,7 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/uosint-project/uosint.git
+$ git clone https://github.com/trhacknon/uosint.git
 
 # change the working directory to uosint
 $ cd uosint
